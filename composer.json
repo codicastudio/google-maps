@@ -1,8 +1,8 @@
 {
-	"name": "codica-studio/googlemaps",
+	"name": "codicastudio/google-maps",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/googlemaps",
+    "homepage": "https://github.com/codicastudio/google-maps",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,6 @@
             "role": "Developer"
         }
     ],
-	"minimum-stability": "stable",
 	"require": {
 		"illuminate/support": "^8.0",
 		"illuminate/config": "^8.0",
@@ -41,5 +40,7 @@
 				"GoogleMaps": "GoogleMaps\\Facade\\GoogleMapsFacade"
 		    }
 		}
-	}
+	},
+	"minimum-stability": "stable",
+    "prefer-stable": true
 }
