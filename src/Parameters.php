@@ -2,7 +2,7 @@
 /**
  * Description of Parameters
  *
- * @author Alexander Pechkarev <alexpechkarev@gmail.com>
+ * @author Alexander Pechkarev 
  */
 
 use URLify;

@@ -3,7 +3,7 @@
 /**
  * Description of GoogleMaps
  *
- * @author Alexander Pechkarev <alexpechkarev@gmail.com>
+ * @author Alexander Pechkarev 
  */
 class GoogleMaps extends WebService{
 

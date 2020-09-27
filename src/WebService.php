@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Config;
 /**
  * Description of GoogleMaps
  *
- * @author Alexander Pechkarev <alexpechkarev@gmail.com>
+ * @author Alexander Pechkarev 
  */
 class WebService{
 
